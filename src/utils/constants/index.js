@@ -1,0 +1,5 @@
+export const CITY_CHANGED = "CITY_CHANGED";
+export const FETCH_DATA_FULFILLED = "FETCH_DATA_FULFILLED";
+export const FETCH_DATA_REJECTED = "FETCH_DATA_REJECTED";
+export const SET_LOADING = "SET_LOADING";
+export const APP_ID = "51c4ab8df8663d8a96d98bc526371faf";

@@ -1,0 +1,24 @@
+.hourly {
+	display: flex;
+	padding: 25px 0 20px 10px;
+
+	&__info {
+		display: flex;
+		flex-direction: column;
+		width: 20%;
+		align-items: center;
+		justify-content: center;
+		overflow-x: scroll;
+	}
+
+	&__temperature {
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	&__day-hour {
+		font-weight: normal;
+		font-size: 12px;
+		color: #c5cae9;
+	}
+}
